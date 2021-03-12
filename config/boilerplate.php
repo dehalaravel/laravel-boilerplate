@@ -1,7 +1,7 @@
 <?php
 
 /*
- * All configuration options for Laravel Boilerplate
+ * All configuration options for Project Base
  * http://laravel-boilerplate.com.
  */
 
